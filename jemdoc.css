@@ -11,6 +11,7 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
+	color: #333;
 }
 
 #layout-menu {
@@ -47,12 +48,13 @@ body {
 }
 
 tt {
-    background: #ffffdd;
+	background: #eee;
 }
 
 pre, tt {
 	font-size: 90%;
 	font-family: monaco, monospace;
+	color: #000;
 }
 
 a, a > tt {
@@ -336,14 +338,14 @@ img.eqwl {
 }
 
 table {
-    border: 2px solid black;
+    border: 1px solid gray;
     border-collapse: collapse;
 }
 
 td {
-    padding: 2px;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
+    padding: 5px;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
     text-align: center;
     border: 1px solid gray;
 }

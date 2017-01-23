@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, analytics{UA-44238171-1},
 # The first line of this file is a special command that tells jemdoc which menu
 # entry in the file named MENU to associate this page with.
 
@@ -10,14 +10,14 @@
 {}{img_left}{Ju.JPG}{2014 in LA}{518}{345}{}
 ~~~
 
-=== About me
+== About me
 
 I am a third year Ph.D. student in Interdepartmental Group in Biostatistics at UC Berkeley, with graduaye minor in Computational Science and Engineer. My advisor is Mark van der Laan. My research interests mainly focus on machine learning and causal inference. 
 
 Before coming to Berkeley in Aug 2014, I received my B.S. degree of Statistics in Southeast University, China, where I worked as a research assistant in Research Center for Complex Systems and Network Sciences, Southeast University under the supervision of Prof. Jinde Cao.
 
 
-=== Contact
+== Contact
 
 University of California, Berkeley\n
 439 Evans Hall, \n
