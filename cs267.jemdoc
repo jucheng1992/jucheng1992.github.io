@@ -20,23 +20,24 @@ For image recognition/classification, a deep learning system usually involves a 
 
 === How well did the application achieve its scientific/engineering objective? Are simulation results compared to physical results?
 
-This is achieved by parallelism of multiple GPUS.
+This is achieved by parallelism of multiple GPUS and showed great success. With parallelism of multiple GPUs, the training time decreases a lot, which offers more opportunities for researchers to develop and investigate new network structures. In addition, there are many deep learning plaform that offer high-level interface to the parllel programing, which makes it much easier for people do not familar with high performance computation (e.g. CUDA). Usually the efficiency is directly assessed by the training time of a neural network on a benchmark dataset (e.g. ImageNet) instead of simulation.
 
 === What parallel platform has the application targeted? (distributed vs. shared memory, vector, etc.) What tools were used to build the application? (languages, libraries, etc.)
 
-This application mainly target in the GPU computation. Usually it runs on a single machine with multiple GPUs, and communicates with each other using Nvidia’s P2P DMA access.
+This application mainly target in the GPU computation. Usually it runs on a single machine with multiple GPUs, and communicates with each other using Nvidia’s P2P DMA access. The tools are usually written in C++ with the  CUDA library.
 
 
 === If the application is run on a major supercomputer, where does that computer rank on the Top 500 list?
 
-No, it is not run on a supercomputer.
+No, it is not run on a supercomputer. 
 
 === How well did the application perform? How does this compare to the platform's best possible performance?
 
+It achieves better computation speed compared to non-parallel version. However, this is far from the best possible performance. For example Most parallel systems runs with 4 GPUs, because running with more GPUs has diminishing (marginal) gains, which due to many practical reason like the communications.
 
 === Does the application "scale" to large problems on many processors? If you believe it has not, what bottlenecks may have limited its performance?
 
-It is much faster compared to previous single-GPU training model. However, it is still not "sacle". For example, it still usually takes several weeks to train a deep convolutional neural network (e.g. ResNet) on ImageNet dataset. There are several bottlenecks: First, moving data in and out of GPU requires a lot more time. Second, training a deep neural network is a highly non-convex problem. It is hard to converge, especially with asynchronous training, which is widely used in distributed optimization.
+It is much faster compared to previous single-GPU training model. However, it is still not "sacle". For example, it still usually takes several weeks to train a deep convolutional neural network (e.g. ResNet) on ImageNet dataset. There are several bottlenecks: First, moving data in and out of GPU requires a lot more time. Second, training a deep neural network is a highly non-convex problem. It is hard to converge, especially with asynchronous training, which is widely used in distributed optimization. 
 
 
 
