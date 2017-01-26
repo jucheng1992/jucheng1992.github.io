@@ -31,33 +31,23 @@ try {
 <p><br /></p>
 <h1>Assignment 0: Describe a Parallel Application</h1>
 <h2>Brief bio</h2>
-<p>I’m Cheng Ju, a third year Ph.D. at UC Berkeley majoring in Biostatistics. I’m majorly interested in machine learning with its applications in causal inference. I’d like to master some parallel programming skills and probably build some fast software to use in machine learning, and solve some big data analytics problem in public health.</p>
+<p>I’m Cheng Ju, a third year Ph.D. at UC Berkeley majoring in Biostatistics. I’m majorly interested in machine learning with its applications in causal inference. I’d like to master some parallel programming skills and probably build efficient software/applications in machine learning, and solve some big data analytics problem in public health.</p>
 <h3>Application problem: Deep Learning for Computer Vision</h3>
-<p>A potential application of parallel computing is to train deep learning systems, such as convolutional neural networks (CNN) and recurrent neural networks.</p>
+<p>An application of parallel computing is image recognition in computer vision, which involves training/tuning deep learning systems, such as convolutional neural networks (CNN) and recurrent neural networks, parallelly.</p>
 <h3>What is the scientific or engineering problem being solved?</h3>
-<p>In the domain of image recognition/classification, a deep learning system usually involves a training dataset of over 1 million images. In addition, the model have large size, with millions of parameters, which involves a lot of computation.</p>
-<h3>How well did the application achieve its scientific / engineering objective? Are simulation results compared to physical results?</h3>
+<p>For image recognition/classification, a deep learning system usually involves a training dataset of over 1 million images. In addition, the model have large size, with millions of parameters, which involves a lot of computation.</p>
+<h3>How well did the application achieve its scientific/engineering objective? Are simulation results compared to physical results?</h3>
+<p>This is achieved by parallelism of multiple GPUS.</p>
 <h3>What parallel platform has the application targeted? (distributed vs. shared memory, vector, etc.) What tools were used to build the application? (languages, libraries, etc.)</h3>
+<p>This application mainly target in the GPU computation. Usually it runs on a single machine with multiple GPUs, and communicates with each other using Nvidia’s P2P DMA access.</p>
 <h3>If the application is run on a major supercomputer, where does that computer rank on the Top 500 list?</h3>
+<p>No, it is not run on a supercomputer.</p>
 <h3>How well did the application perform? How does this compare to the platform's best possible performance?</h3>
-
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><p>Does the application &ldquo;scale&rdquo; to large problems on many processors? If you believe it has not, what bottlenecks may have limited its performance?</p>
-</li>
-</ul>
-
-</li>
-</ul>
-
-</li>
-</ul>
+<h3>Does the application &ldquo;scale&rdquo; to large problems on many processors? If you believe it has not, what bottlenecks may have limited its performance?</h3>
+<p>It is much faster compared to previous single-GPU training model. However, it is still not &ldquo;sacle&rdquo;. For example, it still usually takes several weeks to train a deep convolutional neural network (e.g. ResNet) on ImageNet dataset. There are several bottlenecks: First, moving data in and out of GPU requires a lot more time. Second, training a deep neural network is a highly non-convex problem. It is hard to converge, especially with asynchronous training, which is widely used in distributed optimization.</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2017-01-25 20:14:43 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2017-01-25 21:02:45 PST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
