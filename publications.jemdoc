@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}, analytics{UA-44238171-1},
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+
+\n
+
+= Publications
+
+= Preprint/Technical Report
+
+- Benkeser, David; Lendle, Samuel D.; Ju, Cheng; and van der Laan, Mark J., "Online Cross-Validation-Based Ensemble Learning" (October 2016). U.C. Berkeley Division of Biostatistics Working Paper Series. Working Paper 355. \[[http://biostats.bepress.com/ucbbiostat/paper355 pdf]\]
+
+
+- Ye, Yuting; Lei, Lihua; and Ju, Cheng. "HOP: An Efficient Homotopy Method for Online Anisotropic Projection." arXiv preprint arXiv:1610.04329 (2016). \[[https://arxiv.org/pdf/1610.04329.pdf pdf]\]
+
+
+= Presentations
+
+- Collaborative Targeted Learning for Large-Scale and High-Dimensional Data, Flexible Modeling of High-Dimensional and Network Data (Contributed), 2016 Joint Statistical Meetings, Chicago, with Mark van der Laan,  Susan Gruber, Jessica Franklin, Richard Wyss, Wesley Eddings and Sebastian Schneeweiss.
+
+- Collaborative Targeted Maximum Likelihood Estimator (CTMLE) in Observational Studies, Health Policy Statistics Section (Invited),  2015 Joint Statistical Meetings, Seattle. with Mark van der Laan, Sam Lendle and Sebastian Schneeweiss.
+
