@@ -7,7 +7,7 @@
 
 My research mainly focuses on causal inference and machine learning. More specifically:
 
-- Variable and model selection for propensity score (PS) estimation.
+- Variable and model selection for nuisance parameter(e.g. propensity score) estimation in observational study.
 - Estimation and inference on large-scale and high-dimensional electronic healthcare databases.
 - Online and offline ensemble machine learning.
 
