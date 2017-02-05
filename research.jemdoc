@@ -18,7 +18,7 @@ My research mainly focuses on causal inference and machine learning. More specif
 
 [img{200}{128}{alt text} figure/280-hw3.png]
 
-In this project, we appled Convolutional Neural Network (CNN) for scene recognition on MIT Place dataset. We investigated GoogLeNet, VGG net and Residual Net to classify the scene images. We achieved top 3 (out of 78 participants) performance in the Berkeley Computer Vision course (CS280) competition with respect to the prediction accuracy.
+In this project, we appled Convolutional Neural Network (CNN) for scene recognition on MIT Place dataset. We investigated GoogLeNet, VGG net and Residual Net to classify the scene images. We achieved top 3 (out of 46 teams, 71 participants) performance in the Berkeley Computer Vision course (CS280) competition with respect to the prediction accuracy. [https://inclass.kaggle.com/c/berkeley-cs280-mini-places-challenge Link]
 
 
 === Prediction of Brain  Responses to Visual Images on fMRI data
