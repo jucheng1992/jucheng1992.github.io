@@ -6,15 +6,22 @@
 
 = Publications
 
-- Benkeser, David; Ju, Cheng; Lendle, Samuel D.; and van der Laan, Mark J., "Online Cross-Validation-Based Ensemble Learning". To apprear in /Statistics in Medicine/. \[[http://biostats.bepress.com/ucbbiostat/paper355 pdf]\]
+- Ju, C., Gruber, S., Lendle, S. D., Chambaz, A., Franklin, J. M., Wyss, R., Schneeweiss, S., and van der Laan, M. J. (2017). Scalable Collaborative Targeted Learning for High-Dimensional Data. /Stat. Methods in Med. Res./
+
+- Benkeser, D., Ju, C., Lendle, S., and van der Laan, M. J.(2017) Online cross-validation-based ensemble learning. /Statist. Med./, doi: 10.1002/sim.7320.
 
 = Preprint/Technical Report
 
+- Lei, Lihua, Cheng Ju, Jianbo Chen, and Michael I. Jordan. "Nonconvex Finite-Sum Optimization Via SCSG Methods." arXiv preprint arXiv:1706.09156 (2017).
 
-- Ye, Yuting; Lei, Lihua; and Ju, Cheng. "HOP: An Efficient Homotopy Method for Online Anisotropic Projection." arXiv preprint arXiv:1610.04329 (2016). \[[https://arxiv.org/pdf/1610.04329.pdf pdf]\]
+- Ye, Yuting, Lihua Lei, and Cheng Ju. "HOP: An Efficient Homotopy Method for Online Anisotropic Projection." arXiv preprint arXiv:1610.04329 (2016). 
 
 
-= Presentations
+= Presentations/Posters
+
+- Scalable Collaborative Targeted Learning for Large Scale and High-Dimensional Data, The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada, with Susan Gruber, Sam Lendle, Jessica Franklin, Richard Wyss, Sebastian Schneeweiss, and Mark van der Laan.
+
+- Propensity Score Prediction for Electronic Healthcare Databases Using Super Learner and High-Dimensional Propensity Score Methods, The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada, with Mary Combs, Sam Lendle, Jessica Franklin, Richard Wyss, Sebastian Schneeweiss, and Mark van der Laan.
 
 - Collaborative Targeted Learning for Large-Scale and High-Dimensional Data, Flexible Modeling of High-Dimensional and Network Data (Contributed), 2016 Joint Statistical Meetings, Chicago, with Mark van der Laan,  Susan Gruber, Jessica Franklin, Richard Wyss, Wesley Eddings and Sebastian Schneeweiss.
 
