@@ -6,27 +6,27 @@
 
 = Publications
 
-- Ju, Cheng, Susan Gruber, Samuel D. Lendle, Antoine Chambaz, Jessica M. Franklin, Richard Wyss, Sebastian Schneeweiss, and Mark J. van der Laan.  Scalable Collaborative Targeted Learning for High-Dimensional Data. /Stat. Methods in Med. Res./ (2017).
+- Ju, C., S. Gruber, S. D. Lendle, A. Chambaz, J. M. Franklin, R. Wyss, S. Schneeweiss, and M. J. van der Laan.  Scalable Collaborative Targeted Learning for High-Dimensional Data. /Stat. Methods in Med. Res./, doi: 10.1177//0962280217729845. (2017).
 
-- Lei, Lihua, Cheng Ju, Jianbo Chen, and Michael I. Jordan.  Nonconvex Finite-Sum Optimization Via SCSG Methods. /Advances in Neural Information Processing Systems (NIPS)/ (2017).
+- Lei, L., C. Ju, J. Chen, and M. I. Jordan.  Nonconvex Finite-Sum Optimization Via SCSG Methods. /Advances in Neural Information Processing Systems (NIPS)/ (2017).
 
-- Benkeser, David, Cheng Ju, Sam Lendle, and Mark van der Laan.  Online cross-validation-based ensemble learning. /Statist. Med./, doi: 10.1002/sim.7320. (2017).
+- Benkeser, D., C. Ju, S. Lendle, and M. J. van der Laan.  Online cross-validation-based ensemble learning. /Statist. Med./, doi: 10.1002/sim.7320. (2017).
 
 = Preprint/Technical Report
 
 
-- Ye, Yuting, Lihua Lei, and Cheng Ju. "HOP: An Efficient Homotopy Method for Online Anisotropic Projection." arXiv preprint arXiv:1610.04329 (2016). 
+- Ye, Y., L. Lei, and C. Ju. "HOP: An Efficient Homotopy Method for Online Anisotropic Projection." arXiv preprint arXiv:1610.04329 (2016). 
 
 
 = Presentations/Posters
 
-- Collaborative-controlled LASSO for constructing propensity score-based estimators in high-dimensional data, /The 10th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2017), London, UK/,  with  Richard Wyss, Jessica Franklin, Sebastian Schneeweiss, Jenny Haggstrom, and Mark van der Laan.
+- Collaborative-controlled LASSO for constructing propensity score-based estimators in high-dimensional data, /The 10th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2017), London, UK/,  with  R. Wyss, J. Franklin, S. Schneeweiss, J. Haggstrom, and M. J. van der Laan.
 
-- Scalable Collaborative Targeted Learning for Large Scale and High-Dimensional Data, /The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada/, with Susan Gruber, Sam Lendle, Jessica Franklin, Richard Wyss, Sebastian Schneeweiss, and Mark van der Laan.
+- Scalable Collaborative Targeted Learning for Large Scale and High-Dimensional Data, /The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada/, with S. Gruber, S. Lendle, J. Franklin, R. Wyss, S. Schneeweiss, and M. J. van der Laan.
 
-- Propensity Score Prediction for Electronic Healthcare Databases Using Super Learner and High-Dimensional Propensity Score Methods, /The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada/, with Mary Combs, Sam Lendle, Jessica Franklin, Richard Wyss, Sebastian Schneeweiss, and Mark van der Laan.
+- Propensity Score Prediction for Electronic Healthcare Databases Using Super Learner and High-Dimensional Propensity Score Methods, /The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada/, with M. Combs, S. Lendle, J. Franklin, R. Wyss, S. Schneeweiss, and M. J. van der Laan.
 
-- Collaborative Targeted Learning for Large-Scale and High-Dimensional Data, Flexible Modeling of High-Dimensional and Network Data (Contributed), /2016 Joint Statistical Meetings, Chicago/, with Mark van der Laan,  Susan Gruber, Jessica Franklin, Richard Wyss, Wesley Eddings and Sebastian Schneeweiss.
+- Collaborative Targeted Learning for Large-Scale and High-Dimensional Data, Flexible Modeling of High-Dimensional and Network Data (Contributed), /2016 Joint Statistical Meetings, Chicago/, with M. J. van der Laan,  S. Gruber, J. Franklin, R. Wyss, W. Eddings and S. Schneeweiss.
 
-- Collaborative Targeted Maximum Likelihood Estimator (CTMLE) in Observational Studies, Health Policy Statistics Section (Invited), /2015 Joint Statistical Meetings, Seattle/. with Mark van der Laan, Sam Lendle and Sebastian Schneeweiss.
+- Collaborative Targeted Maximum Likelihood Estimator (CTMLE) in Observational Studies, Health Policy Statistics Section (Invited), /2015 Joint Statistical Meetings, Seattle/. with M. J. van der Laan, S. Lendle and S. Schneeweiss.
 
