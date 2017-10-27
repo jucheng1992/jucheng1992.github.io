@@ -24,21 +24,44 @@ Wyss, R., S. Schneeweiss, M. J. van der Laan, S. D. Lendle, C. Ju, and J. M. Fra
  /Epidemiology/, (2017). \n
 
 
-= Preprint/Technical Report
+= Under Review
 
-- *HOP: An Efficient Homotopy Method for Online Anisotropic Projection*\n
+- *HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step*\n
  Ye, Y., L. Lei, and C. Ju.\n
- arXiv preprint arXiv:1610.04329 (2016) \n
+ arXiv preprint arXiv:1610.04329 (2017). \n
+
+- *The Relative Performance of Ensemble Methods with Deep Convolutional Neural Networks for Image Classification*\n
+ Ju, C, A. Bibaut, and M. J. van der Laan \n
+ arXiv preprint arXiv:1704.01664 (2017). \n
+
+- *On Adaptive Propensity Score Truncation in Causal Inference*\n
+Ju, C., J. Schwab, and M.J. van der Laan.\n
+arXiv preprint arXiv:1707.05861 (2017).\n
+
+- *Collaborative-controlled LASSO for Constructing Propensity Score-based Estimators in High-Dimensional Data* \n
+Ju, C, R. Wyss, J. M. Franklin, S. Schneeweiss, J. Häggström, and M. J. van der Laan\n
+arXiv preprint arXiv:1706.10029 (2017).\n
+
 
 = Presentations/Posters
 
-- Collaborative-controlled LASSO for constructing propensity score-based estimators in high-dimensional data, /The 10th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2017), London, UK/,  with  R. Wyss, J. Franklin, S. Schneeweiss, J. Haggstrom, and M. J. van der Laan.
+- *Collaborative-controlled LASSO for constructing propensity score-based estimators in high-dimensional data*\n
+/The 10th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2017), London, UK/,  \n
+with  R. Wyss, J. Franklin, S. Schneeweiss, J. Haggstrom, and M. J. van der Laan.
 
-- Scalable Collaborative Targeted Learning for Large Scale and High-Dimensional Data, /The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada/, with S. Gruber, S. Lendle, J. Franklin, R. Wyss, S. Schneeweiss, and M. J. van der Laan.
+- *Scalable Collaborative Targeted Learning for Large Scale and High-Dimensional Data*\n
+/The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada/\n
+with S. Gruber, S. Lendle, J. Franklin, R. Wyss, S. Schneeweiss, and M. J. van der Laan.
 
-- Propensity Score Prediction for Electronic Healthcare Databases Using Super Learner and High-Dimensional Propensity Score Methods, /The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada/, with M. Combs, S. Lendle, J. Franklin, R. Wyss, S. Schneeweiss, and M. J. van der Laan.
+- *Propensity Score Prediction for Electronic Healthcare Databases Using Super Learner and High-Dimensional Propensity Score Methods*\n
+/The 33rd International Conference on Pharmacoepidemiology and Therapeutic Risk Management (ICPE 2017), Montreal, Canada/\n
+with M. Combs, S. Lendle, J. Franklin, R. Wyss, S. Schneeweiss, and M. J. van der Laan.
 
-- Collaborative Targeted Learning for Large-Scale and High-Dimensional Data, Flexible Modeling of High-Dimensional and Network Data (Contributed), /2016 Joint Statistical Meetings, Chicago/, with M. J. van der Laan,  S. Gruber, J. Franklin, R. Wyss, W. Eddings and S. Schneeweiss.
+- *Collaborative Targeted Learning for Large-Scale and High-Dimensional Data, Flexible Modeling of High-Dimensional and Network Data (Contributed)* \n
+/2016 Joint Statistical Meetings, Chicago/\n
+with M. J. van der Laan,  S. Gruber, J. Franklin, R. Wyss, W. Eddings and S. Schneeweiss.
 
-- Collaborative Targeted Maximum Likelihood Estimator (CTMLE) in Observational Studies, Health Policy Statistics Section (Invited), /2015 Joint Statistical Meetings, Seattle/. with M. J. van der Laan, S. Lendle and S. Schneeweiss.
+- *Collaborative Targeted Maximum Likelihood Estimator (CTMLE) in Observational Studies, Health Policy Statistics Section (Invited)*\n
+/2015 Joint Statistical Meetings, Seattle/.\n
+with M. J. van der Laan, S. Lendle and S. Schneeweiss.
 
