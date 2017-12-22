@@ -6,6 +6,16 @@
 
 = Publications
 
+
+- *HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step*\n
+ Ye, Y., L. Lei, and C. Ju.\n
+ /Artificial Intelligence and Statistics (AISTATS)/, (2018). \n
+
+- *Using Super Learner Prediction Modeling to Improve High-Dimensional Propensity Score Estimation*\n
+Wyss, R., S. Schneeweiss, M. J. van der Laan, S. D. Lendle, C. Ju, and J. M. Franklin. \n
+ /Epidemiology/, (2018). \n
+
+
 - *Collaborative-controlled LASSO for Constructing Propensity Score-based Estimators in High-Dimensional Data* \n
 Ju, C, R. Wyss, J. M. Franklin, S. Schneeweiss, J. Häggström, and M. J. van der Laan\n
 To appear /Stat. Methods in Med. Res./, (2017+).\n
@@ -24,16 +34,8 @@ Benkeser, D., C. Ju, S. D. Lendle, and M. J. van der Laan \n
 /Statist. Med./, (2017).\n
 
 
-- *Using Super Learner Prediction Modeling to Improve High-Dimensional Propensity Score Estimation*\n
-Wyss, R., S. Schneeweiss, M. J. van der Laan, S. D. Lendle, C. Ju, and J. M. Franklin. \n
- /Epidemiology/, (2017). \n
-
 
 = Under Review
-
-- *HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step*\n
- Ye, Y., L. Lei, and C. Ju.\n
- arXiv preprint arXiv:1610.04329 (2017). \n
 
 - *The Relative Performance of Ensemble Methods with Deep Convolutional Neural Networks for Image Classification*\n
  Ju, C, A. Bibaut, and M. J. van der Laan \n
