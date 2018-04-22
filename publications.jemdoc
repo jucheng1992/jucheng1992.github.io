@@ -4,7 +4,11 @@
 
 \n
 
-= Publications
+= Selected Publications
+
+- *On Adaptive Propensity Score Truncation in Causal Inference*\n
+Ju, C., J. Schwab, and M. J. van der Laan.\n
+/Stat. Methods in Med. Res./, (2018+).\n
 
 - *HONES: A Fast and Tuning-free Homotopy Method For Online Newton Step*\n
  Ye, Y., L. Lei, and C. Ju.\n
@@ -16,12 +20,12 @@
 
 - *Using Super Learner Prediction Modeling to Improve High-Dimensional Propensity Score Estimation*\n
 Wyss, R., S. Schneeweiss, M. J. van der Laan, S. D. Lendle, C. Ju, and J. M. Franklin. \n
- /Epidemiology/, (2018). \n
+ /Epidemiology/ (2018), 29(1), 96-106.. \n
 
 
 - *Collaborative-controlled LASSO for Constructing Propensity Score-based Estimators in High-Dimensional Data* \n
 Ju, C, R. Wyss, J. M. Franklin, S. Schneeweiss, J. Häggström, and M. J. van der Laan\n
-/Stat. Methods in Med. Res./, (2018).\n
+/Stat. Methods in Med. Res./, (2018+).\n
 
 - *Nonconvex Finite-Sum Optimization Via SCSG Methods*\n
  Lei, L., C. Ju, J. Chen, and M. I. Jordan.  \n
@@ -33,13 +37,20 @@ Ju, C., S. Gruber, S. D. Lendle, A. Chambaz, J. M. Franklin, R. Wyss, S. Schneew
 
 - *Online cross-validation-based ensemble learning*\n
 Benkeser, D., C. Ju, S. D. Lendle, and M. J. van der Laan \n
-/Statist. Med./, 37: 249–260. doi: 10.1002/sim.7320. (2017).\n
+/Statist. Med./, 37(2), 249-260. doi: 10.1002/sim.7320. (2017).\n
+
+= Book Chapters
+
+- *C-TMLE for continuous tuning.*\n
+van der Laan, Mark J., A. Chambaz, and C. Ju.\n
+Targeted Learning in Data Science. Springer, Cham, 2018. 143-161.\n
 
 = Under Review
 
-- *On Adaptive Propensity Score Truncation in Causal Inference*\n
-Ju, C., J. Schwab, and M. J. van der Laan.\n
-arXiv preprint arXiv:1707.05861 (2017).\n
+- *Collaborative targeted inference from continuously indexed nuisance parameter estimators*\n
+Ju, C., A. Chambaz, and M. J. van der Laan. \n
+arXiv preprint arXiv:1804.00102 (2018).\n
+
 
 = Presentations/Posters
 
