@@ -6,21 +6,24 @@
 
 = Industry Experience
 
-- Machine Learning Engineer, PhD Intern, News Feed team, Facebook, Sep 2017 - Dec 2017.
+- Machine Learning Engineer, PhD Intern, News Feed team, Facebook,  Sep 2017 - Dec 2017.
+-- Worked on semi-supervised learning methods to detect feeds with low content quality.
 
+- Quantitative Researcher Intern, Citadel LLC, May 2017 - Jul 2017.
+-- Online Ensemble Methods for Price Forecasting.
 
 - Data Scientist, Intern, WW Business Insight team, Apple Inc, May 2016 - Aug 2016.
+-- Worked on natural language processing methods to understand the customer feedback comments.
 
 = Academic Experience
 
 - Research Assistant, [http://www.drugepi.org/ Brigham & Women's Hospital  and Harvard Medical School], Aug 2015 - Present.
 
-
 - Statistical Consultant, [http://dlab.berkeley.edu/people/cheng-ju D-lab], University of California, Berkeley, Jan 2015 - Aug 2015.
 
 = Teaching Experience
 
-I have worked as a final exame grader for the following courses at Berkeley:
+I have worked as a final exam grader for the following courses at Berkeley:
 
 - Spring 2016: CS188, Artificial Intelligence
 
@@ -28,7 +31,6 @@ I have worked as a GSI (Graduate Student Instructor) for the following courses a
 
 - Spring 2015: PH290, Special Topic: Big Data in Public Health
 - Fall 2014: STAT20, Introduction to Probability and Statistics
-
 
 = Honors & Awards
 
@@ -42,3 +44,13 @@ I have worked as a GSI (Graduate Student Instructor) for the following courses a
 
 - Departmental Stipend in recognition of scholastic achievements, Division of Biostatistics, University of California, 2015
 
+= Competition
+
+I play Kaggle in my spare time. I am a competition master at Kaggle, with two gold and silver medals.
+
+
+- Avito Online Sale Demand Prediction: Gold Medel (10/1917, top 0.5%)
+
+- TalkingData Fraud Click Detection: Gold Medel (12/3967, top 0.5%)
+
+- Google Jigsaw Toxic Comments Detection: Silver Medal (84/4551, top 2%)
