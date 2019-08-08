@@ -6,6 +6,12 @@
 
 = Selected Publications
 
+
+- *Robust inference on the average treatment effect using the outcome highly adaptive lasso* \n
+Ju, C., D. Benkeser, and M. J. van der Laan. \n
+/Biometrics/ (2019+). \n
+
+
 - *Propensity score prediction for electronic healthcare databases using Super Learner and High-dimensional Propensity Score Methods* \n
 Ju, C., M. Combs, S. D. Lendle, J. M. Franklin, R. Wyss, S. Schneeweiss, and Mark J. van der Laan \n
 /Journal of Applied Statistics/, (2019+). \n
@@ -68,11 +74,6 @@ Targeted Learning in Data Science. Springer, Cham, 2018. 143-161.\n
 - *Collaborative targeted inference from continuously indexed nuisance parameter estimators*\n
 Ju, C., A. Chambaz, and M. J. van der Laan. \n
 arXiv preprint arXiv:1804.00102 (2018).\n
-
-- *Collaborative estimation of the average causal effect of a treatment using the outcome-highly-adaptive LASSO* \n
-Ju, C., D. Benkeser, and M. J. van der Laan. \n
-arXiv preprint arXiv:1806.06784 (2018). \n
-
 
 
 
